@@ -1,0 +1,21 @@
+<root>
+
+<MSG_DETAILS>
+    <msg_name>SITE-A</msg_name>
+    <msg_id>1</msg_id>
+    <latitude>11.111</latitude>
+    <Longitude>22.222</Longitude>
+    <Altitude>1111</Altitude>
+</MSG_DETAILS>
+
+
+<MSG_DETAILS>
+    <msg_name>SITE-B</msg_name>
+    <msg_id>1</msg_id>
+    <latitude>33.333</latitude>
+    <Longitude>44.444</Longitude>
+    <Altitude>2222</Altitude>
+</MSG_DETAILS>
+
+
+</root>
